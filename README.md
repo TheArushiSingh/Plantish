@@ -10,5 +10,5 @@ Live at : https://gentle-rock-00ac82410.1.azurestaticapps.net/
 ## Azure Technologies Used:
 1. Azure Bot Service
 2. Azure QnA Maker
-3. Azure App Service
+3. Static Web Apps
 4. Azure Maps
