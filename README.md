@@ -1,4 +1,4 @@
-# Plantish
+# Plantish ![](https://github.com/TheArushiSingh/Plantish-azure/blob/main/images/plant.png)
 ## Problem Statement: 
 Climate change is affecting every country in the world. There are many things that
 each of us can do as individuals and afforestation is one of them. This project will help and encourage people to grow plants and trees in their surroundings. 
