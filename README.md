@@ -5,7 +5,7 @@ each of us can do as individuals and afforestation is one of them. This project 
 ## Solution:
 In order to tackle the climate change problem, I created a web app that will encourage and help people to grow plants or trees in their personal garden, balcony or indoor plants. This web app will find closest nursery, plant shop, organic shop and so forth and everything connected with planting and agriculture using Azure Maps and also people can get advice or tips for taking care of plants and best practices using the Azure chatbot. It will let people contribute towards the environment and will also help small scale agricultural businesses earn and grow. 
 
-Live at : https://thearushisingh.github.io/Plantish-azure/
+Live at : https://gentle-rock-00ac82410.1.azurestaticapps.net/
 
 ## Azure Technologies Used:
 1. Azure Bot Service
