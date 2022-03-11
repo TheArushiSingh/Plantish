@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Plantish-arushi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2A58A4E6884B4AAB8077FFFD157DEBA2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8A442D71E68B49F98172512695CC4858 }}
           package: .
